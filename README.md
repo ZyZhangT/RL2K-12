@@ -1,0 +1,2 @@
+# RL2K-12
+Introduce Reinforcement Learning to K-12 Students Using LEGO SPIKE Prime
